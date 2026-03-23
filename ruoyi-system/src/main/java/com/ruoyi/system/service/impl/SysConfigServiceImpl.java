@@ -35,7 +35,7 @@ public class SysConfigServiceImpl implements ISysConfigService
     @PostConstruct
     public void init()
     {
-        loadingConfigCache();
+       // loadingConfigCache();
     }
 
     /**
